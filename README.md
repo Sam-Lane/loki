@@ -1,5 +1,8 @@
 <h1 align="center"> Loki </h1>
 <p align="center">(lo‧ki) Finnish for log; to record something.</p>
+<p align="center">
+<a href="https://pkg.go.dev/github.com/sam-lane/loki"><img src="https://pkg.go.dev/badge/github.com/sam-lane/loki.svg" alt="Go Reference"></a>
+</p>
 
 ## Getting started
 
